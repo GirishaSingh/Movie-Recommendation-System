@@ -28,5 +28,5 @@ To install and set up the Movie Recommendation System, follow these steps:
 * Your Name - Girisha Singh 
 * Project Link: https://github.com/GirishaSingh/movie-recommendation-system
 ## Acknowledgments
-Thanks to IMDb for providing the dataset.
-Special thanks to the developers of Streamlit, sklearn, NLTK, pandas, and numpy for their amazing tools.
+* Thanks to IMDb for providing the dataset.
+* Special thanks to the developers of Streamlit, sklearn, NLTK, pandas, and numpy for their amazing tools.
